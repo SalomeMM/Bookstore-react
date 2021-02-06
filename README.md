@@ -1,3 +1,22 @@
+# Bookstore-react
+
+Bookstore displaying a selection of books with detail popup, built with React.js.
+
+Applied:
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- React.js
+- AJAX
+- JSON
+
+Third project of the "Full Stack Web Development with JavaScript and MERN" bootcamp at Ubiqum Code Academy:
+https://ubiqum.com/programs/web-development-with-javascript-program/
+
+_______________________________________________
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
