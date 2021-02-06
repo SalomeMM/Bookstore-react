@@ -11,7 +11,7 @@ Applied:
 - AJAX
 - JSON
 
-Third project of the "Full Stack Web Development with JavaScript and MERN" bootcamp at Ubiqum Code Academy:
+Fourth project of the "Full Stack Web Development with JavaScript and MERN" bootcamp at Ubiqum Code Academy:
 https://ubiqum.com/programs/web-development-with-javascript-program/
 
 _______________________________________________
